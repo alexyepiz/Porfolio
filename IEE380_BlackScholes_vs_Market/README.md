@@ -1,6 +1,6 @@
 # Black-Scholes vs. Real Market Pricing
 
-*Project completed as part of IEE380: Statistical Methods for Engineering at Arizona State University.*
+*Project completed as part of IEE380: Probability and Statistics, at Arizona State University*
 
 This project analyzes how well the Black-Scholes option pricing model matches real call option prices for Target Corporation.
 
