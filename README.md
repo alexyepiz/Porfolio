@@ -28,6 +28,15 @@ Used control charts to analyze SPY trading volume and evaluate the market impact
   - [📄 Report.pdf](./SPY_Volume_ControlCharts/Report.pdf)  
   - [📓 Code.ipynb](./SPY_Volume_ControlCharts/Code.ipynb)
 
+### 3. [FURI: Reinforcement Learning with GRU and LSTM Networks](./FURI)
+
+**Summary:**  
+Researched the effect of reinforcement learning (RL) on LSTM and GRU models for stock price prediction and algorithmic trading using SPY historical data.
+
+- **Skills:** Time-Series Forecasting, Backtesting, Reinforcement Learning, Deep Learning (LSTM, GRU)  
+- **Key Result:** GRU+RL showed statistically significant improvement in win rate, while LSTM+RL delivered the strongest overall performance.  
+- **Files:**  
+  - [📄 Poster.pdf](./FURI/Poster.pdf)
 
 ---
 
