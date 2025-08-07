@@ -12,10 +12,10 @@ This project provides a Python-based tool to calculate the profit and loss chara
 
 - Strike Price of Long Call (Low Strike)
 - Premium Paid for Long Call
-- Implied Volatility (IV1) for Long Call
+- Implied Volatility for Long Call (IV1)
 - Strike Price of Short Call (High Strike)
 - Premium Received for Short Call
-- Implied Volatility (IV2) for Short Call
+- Implied Volatility for Short Call (IV2)
 - Stock Price
 - Days til Expiration
 - Risk Free Rate
