@@ -1,28 +1,45 @@
 # Bull Call Spread Options Tool
 
-This project provides a Python-based tool to calculate the maximum profit, maximum loss, and breakeven point for a bull call spread — a common options trading strategy.
+This project provides a Python-based tool to calculate the profit and loss characteristics of a bull call spread — a widely used options trading strategy.
 
 ## Summary
 
-- **Strategy:** A bull call spread involves buying a call option at a lower strike price and selling another call at a higher strike price with the same expiration.
-- **Goal:** Build a simple calculator to assist in evaluating potential outcomes of this options strategy.
+- **Strategy:** A bull call spread involves buying a call option at a lower strike price and selling another call at a higher strike price, both with the same expiration.
+- **Goal:** Build an interactive tool to analyze potential outcomes, including breakeven, max profit/loss, and return metrics.
+- **Tools Used:** Python, Jupyter Notebook, Financial Modeling
 
-## Features
+## Inputs (User-Defined)
 
-- User inputs:
-  - Strike prices of both options
-  - Premiums paid and received
-- Outputs:
-  - Max Profit
-  - Max Loss
-  - Breakeven Point
-- Fully contained in a single Jupyter notebook for easy use and customization
+- Strike Price of Long Call (Low Strike)
+- Premium Paid for Long Call
+- Implied Volatility (IV1) for Long Call
+- Strike Price of Short Call (High Strike)
+- Premium Received for Short Call
+- Implied Volatility (IV2) for Short Call
+- Stock Price
+- Days til Expiration
+- Risk Free Rate
+
+## Outputs (Calculated)
+
+- Breakeven Price
+- Breakeven % Move
+- Maximum Profit (per contract)
+- Maximum Loss (per contract)
+- Risk to Reward
+- Low Strike Probability of Profit (Low POP)
+- Breakeven Price Probability of Profit (Breakeven POP)
+- High Strike Price Probability of Profit (High POP)
+- High Strike Black-Scholes
+- Low Strike Black-Scholes
+- Leverage
 
 ## Use Case
 
-This tool is ideal for students, retail traders, or finance professionals looking to analyze the risk/reward profile of a bull call spread quickly.
+This tool is ideal for students, traders, or finance professionals who want to analyze the risk/reward profile of a bull call spread and better understand option strategy outcomes before entering a position.
 
 ## File
 
 - [📓 Bull_Call_Spread_Tool.ipynb](./Bull_Call_Spread_Tool.ipynb)
+
 
