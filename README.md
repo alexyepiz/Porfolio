@@ -21,13 +21,12 @@ Statistical analysis comparing the Black-Scholes option pricing model to real ma
 
 ## 🔗 About This Portfolio
 
-This portfolio is designed to highlight my technical skills and projects for internship applications and professional opportunities. Future projects will include topics in:
+This portfolio is designed to highlight my work in areas such as:
 
 - Machine Learning
 - Quantitative Finance
 - Statistics
 
-Feel free to explore the projects and code. For any inquiries, connect with me on [LinkedIn](https://www.linkedin.com/in/alex-yepiz-93b736260) or [Email](mailto:sayepiz@asu.edu)
 
 ## Contact
 
