@@ -11,7 +11,7 @@ This project analyzes how well the Black-Scholes option pricing model matches re
 - **Statistical Methods:** 
   - F-Test: No significant difference in variances (p = 0.85)
   - T-Test: No significant difference in means (p = 0.87)
-- **Conclusion:** Black-Scholes provides an acceptable estimate of real option prices.
+- **Conclusion:** Black-Scholes provides a statistically acceptable estimate of real option prices.
 
 ## Files
 
