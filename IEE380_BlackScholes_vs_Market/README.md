@@ -15,5 +15,8 @@ This project analyzes how well the Black-Scholes option pricing model matches re
 
 ## Files
 
-- [📄 Project Report (PDF)](./IEE380%20Project%20Report.pdf)
-- [📓 Jupyter Notebook](./IEE380_Project.ipynb)
+## Files
+
+- [📄 Project Report (PDF)](./Report.pdf)
+- [📓 Jupyter Notebook](./Code.ipynb)
+
