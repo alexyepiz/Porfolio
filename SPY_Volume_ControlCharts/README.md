@@ -13,7 +13,7 @@ This project analyzes daily trading volume of the SPDR S&P 500 ETF (SPY) using s
 
 ## Key Findings
 
-- SPY trading volume is not normally distributed (approximately lognormal).
+- SPY trading volume is not normally distributed (it is approximately lognormal).
 - Multiple volume spikes were triggered by notable events (e.g., Quadruple Witching Day, Presidential Inauguration, and tariff announcement).
 - Control charts confirmed the U.S.–China tariff event introduced assignable cause variation, disrupting normal trading volume patterns.
 
