@@ -28,3 +28,9 @@ This portfolio is designed to highlight my technical skills and projects for int
 - Statistics
 
 Feel free to explore the projects and code. For any inquiries, connect with me on [LinkedIn](https://www.linkedin.com/in/alex-yepiz-93b736260) or [Email](mailto:sayepiz@asu.edu)
+
+## Contact
+
+- 📧 Email: alejandro.yepiz@gmail.com
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/alex-yepiz-93b736260)
+
