@@ -17,7 +17,7 @@ This project provides a Python-based tool to calculate the profit and loss chara
 - Premium Received for Short Call
 - Implied Volatility for Short Call (IV2)
 - Stock Price
-- Days til Expiration
+- Days Til Expiration
 - Risk Free Rate
 
 ## Outputs (Calculated)
