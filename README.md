@@ -27,4 +27,4 @@ This portfolio is designed to highlight my technical skills and projects for int
 - Quantitative Finance
 - Statistics
 
-Feel free to explore the projects and code. For any inquiries, connect with me on [LinkedIn](#) or via GitHub.
+Feel free to explore the projects and code. For any inquiries, connect with me on [LinkedIn](#www.linkedin.com/in/alex-yepiz-93b736260) or [Email](#sayepiz@asu.edu)
