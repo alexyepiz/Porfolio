@@ -27,8 +27,19 @@ Used control charts to analyze SPY trading volume and evaluate the market impact
 - **Files:**  
   - [📄 Report.pdf](./SPY_Volume_ControlCharts/Report.pdf)  
   - [📓 Code.ipynb](./SPY_Volume_ControlCharts/Code.ipynb)
+ 
+### 3. [Bull Call Spread Tool](./Bull_Call_Spread)
 
-### 3. [FURI: Reinforcement Learning with GRU and LSTM Networks](./FURI)
+**Summary:**  
+Built a Python tool to model Bull Call Spread strategies in options trading. The program calculates net premium, maximum profit, maximum loss, and breakeven point, and outputs a structured payoff summary.
+
+- **Skills:** Python (NumPy, pandas), Options Theory, Financial Modeling  
+- **Key Result:** Provided clear risk/reward metrics for moderate bullish trading strategies.  
+- **Files:**  
+  - [📄 Code.ipynb](./Bull_Call_Spread_Tool/Code.ipynb)   
+
+
+### 4. [FURI: Reinforcement Learning with GRU and LSTM Networks](./FURI)
 
 **Summary:**  
 Researched the effect of reinforcement learning (RL) on LSTM and GRU models for stock price prediction and algorithmic trading using SPY historical data.
